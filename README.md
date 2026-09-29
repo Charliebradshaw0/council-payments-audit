@@ -8,7 +8,7 @@ I decided to use my own council's data. Birmingham City Council publishes every 
 - https://cityobservatory.birmingham.gov.uk/explore/dataset/payments-to-suppliers-over-gbp500/
 - 1 April 2025 to 31 March 2026: 110,426 payments, £1.81bn in total
 - No missing or negative amounts. The smallest payment is £500, which matches what the council says it publishes
-- I haven't uploaded the raw data because the file is too big, but it's free to download from the link
+- I haven't uploaded the raw data as the file is too big, but it is downloadable via the link
 
 ## What I checked
 I started with what could go wrong with a council's payments and picked a test for each:
